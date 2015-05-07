@@ -2,7 +2,7 @@
 A sort of pre-lession, just to get Python installed, and the
 environment set up.
 
-## Download + Install Python ## 
+## Download + Install Python ##
 
 Visit the
 [ActiveTcl Download Page](http://www.activestate.com/activetcl/downloads)
