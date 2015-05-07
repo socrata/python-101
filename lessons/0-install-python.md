@@ -2,7 +2,9 @@
 A sort of pre-lession, just to get Python installed, and the
 environment set up.
 
-## Download + Install Python ## Visit the
+## Download + Install Python ## 
+
+Visit the
 [ActiveTcl Download Page](http://www.activestate.com/activetcl/downloads)
 and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row.
 
