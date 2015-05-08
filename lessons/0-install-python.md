@@ -9,7 +9,7 @@ environment set up.
 
 Visit the
 [ActiveTcl Download Page](http://www.activestate.com/activetcl/downloads)
-and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row, 
+and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row,
 **don't click the big button, it's the wrong version**.
 
 After the `.dmg` file has downloaded, run the installer, all of the
@@ -32,4 +32,18 @@ of the default options are fine for what we're doing.
 
 To start an interactive Python session, run the program called "IDLE"
 from the Launchpad.
+
+You may want to change your font settings, as the default text is
+*tiny*.
+
+To do that click on the "IDLE" menu and select "Preferences...", then
+under the "Fonts/Tabs" settings you should be able to increase the
+font size.  
+
+Unless you have much better eyesight than I do, you'll
+probably want to bump it up to at least 12 point.
+
+The default font of "Courier" is fine, if you want to change it,
+because this is code, you will want a mono-spaced (typewriter style)
+font, so that all of your code lines up evenly.
 
