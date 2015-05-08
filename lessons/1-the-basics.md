@@ -5,7 +5,7 @@ Python tends to mostly be used for short programs that are called
 
 Scripts are just a series of commands to be executed by the computer.
 
-Unlike inside of IDLE, if you write a script like ([no_output.py](../resources/no_output.py)):
+Unlike inside of IDLE, if you write a script like:
 ```python
 x = 9
 x * x
@@ -15,7 +15,7 @@ It won't print anything, it will just spend the time to do the computation.
 
 To print things you need to use the `print` command.
 
-For example ([yes_output.py](../resources/yes_output.py)):
+For example:
 ```python
 x = 9
 print(x * x)
