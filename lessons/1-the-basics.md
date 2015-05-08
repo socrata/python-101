@@ -11,6 +11,9 @@ x = 9
 x * x
 ```
 
+Note that the commands in the file don't start with `>>>`.  If you
+copy and paste code from IDLE you will need to remove those leading `>`s.
+
 It won't print anything, it will just spend the time to do the computation.
 
 To print things you need to use the `print` command.
