@@ -7,13 +7,14 @@ environment set up.
 
 Visit the
 [ActiveTcl Download Page](http://www.activestate.com/activetcl/downloads)
-and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row.
+and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row, 
+*don't click the big button, it's the wrong version*.
 
 After the `.dmg` file has downloaded, run the installer, all of the
 default options are fine for what we're doing.
 
 Visit the [Python Download Page](https://www.python.org/downloads/)
-and click the "Download Python 3.4.3" button.
+and click the yellow button that says "Download Python 3.4.3" at the top of the page.
 
 Once the `.pkg` file has downloaded, run the installer, and again all
 of the default options are fine for what we're doing.
