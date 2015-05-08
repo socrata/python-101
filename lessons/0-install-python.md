@@ -55,5 +55,18 @@ In Python, most mathematical operators work the way you learned in school.
 You can also assign things to variables, if you want to do more
 complicated math.
 
+```python
+>>> 6 * 5 + 20 - 1
+49
+>>> 6 * 5
+30
+>>> x = 6 * 7
+>>> x * x
+1764
+>>> x = 9
+>>> x * x
+81
+```
+
 Next time we'll cover doing things more complicated than you can do
 with a drug store calculator.
