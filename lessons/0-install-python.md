@@ -3,15 +3,6 @@
 A sort of pre-lession, just to get Python installed, and the
 environment set up.
 
-## Create a GitHub Account ##
-Go to [github.com](https://github.com/) and fill out the "Sign up for
-GitHub" form.
-
-And then post your username in the `#python-101` Slack channel, and I
-will add you to the "New Comers" group, which will give you access to
-the Python 101 Repository
-([https://github.com/socrata/python-101](https://github.com/socrata/python-101)).
-
 ## Download + Install Python ##
 
 Visit the
@@ -29,6 +20,6 @@ of the default options are fine for what we're doing.
 
 ## Running Python ##
 
-To start an interactive Python session, run the program called "IDLE 3"
+To start an interactive Python session, run the program called "IDLE"
 from the Launchpad.
 
