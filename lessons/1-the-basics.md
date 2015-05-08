@@ -15,7 +15,7 @@ It won't print anything, it will just spend the time to do the computation.
 
 To print things you need to use the `print` command.
 
-For example ([yes_output](../resources/yes_output.py)):
+For example ([yes_output.py](../resources/yes_output.py)):
 ```python
 x = 9
 print(x * x)
