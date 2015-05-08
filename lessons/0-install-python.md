@@ -47,3 +47,12 @@ The default font of "Courier" is fine, if you want to change it,
 because this is code, you will want a mono-spaced (typewriter style)
 font, so that all of your code lines up evenly.
 
+### Experiment ###
+Try some things.  Some simple stuff you can do is basic math.  Most
+mathematical operators work the way you'd expect in Python.
+
+You can also assign things to variables, if you want to do more
+complicated math.
+
+Next time we'll cover doing things more complicated than you can do
+with a drug store calculator.
