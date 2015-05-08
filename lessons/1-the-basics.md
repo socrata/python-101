@@ -21,8 +21,13 @@ x = 9
 print(x * x)
 ```
 
-Will print `81` out.
+Will print `81` out, even if you save it to a file.
 
-Download the files and try it out yourself!
+Now try creating a script yourself.
 
-TODO (actual instructions on downloading/running files).
+From inside of IDLE do "File > New File" then write and save your
+program (feel free to copy and paste from above).
+
+After saving the file, you can run it by going to "Run > Run Module"
+or by pressing F5 (with the default MacOS settings, this will require
+pressing fn + F5).
