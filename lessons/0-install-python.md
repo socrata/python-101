@@ -11,8 +11,9 @@ environment set up.
 
 Visit the
 [ActiveTcl Download Page](http://www.activestate.com/activetcl/downloads)
-and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row,
-**don't click the big button, it's the wrong version**.
+and download the "Mac Disk Image (DMG)" from the "8.5.18.0" row.
+
+**Don't click the big button, it's the wrong version.**
 
 
 After the `.dmg` file has downloaded, run the installer, all of the
