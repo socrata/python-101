@@ -118,14 +118,16 @@ So, how do we do this?
 
 First we need another tool.
 
+We need to use a function.
+
 
 ## What are Functions? ##
 
 Functions are pre-defined pieces of code that you can run on different
-arguments.
+arguments (basically, placeholders in the code).
 
-They're basically the same as the functions you learned in math class
-(log, sin, tan, etc).
+They're pretty much the same as the functions you learned in math class
+(log, sin, tan, etc), except they don't always return a value.
 
 
 ## Calling Functions ##
@@ -161,3 +163,12 @@ Write a script of your own that prints out a string using dynamic
 information.
 
 Save it as "answer.py" before running it.
+
+
+## What's in it for me? ##
+
+This course is a work in progress, and I'd like to give you the tools
+to solve problems you have in your daily life.
+
+Give any examples of problems you'd like to solve, either here, or in
+the `#python-101` channel
