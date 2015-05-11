@@ -165,6 +165,20 @@ information.
 Save it as "answer.py" before running it.
 
 
+## Multiple Arguments ##
+
+Some functions can actually take multiple arguments.  Again, `print`
+turns out to be an example.  It prints its arguments separated
+by spaces.
+
+```
+>>> print("One and one and one is", 1 + 1 + 1)
+One and one and one is 3
+```
+
+Arguments are separated by a comma.
+
+
 ## What's in it for me? ##
 
 This course is a work in progress, and I'd like to give you the tools
