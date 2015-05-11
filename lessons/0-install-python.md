@@ -94,5 +94,12 @@ complicated math.
 ```
 
 
-Next time we'll cover doing things more complicated than you can do
-with a drug store calculator.
+## Slack ##
+
+Make sure to join the Slack channel `#python-101`, if you want to post
+links or ask questions some time other than lectures/office hours.
+
+I'll do my best to follow the channel during working hours.
+
+
+Next time we'll cover doing things more fun than simple arithmetic.

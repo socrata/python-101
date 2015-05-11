@@ -58,14 +58,106 @@ print(2015) # Or anywhere in the middle of it.
 ## Strings ##
 
 Strings are a series of characters (letters, numbers, etc) that are
-surrounded by quotation marks.
+surrounded by (single or double) quotation marks.
 
 The following are all strings:
 ```python
 "42" # Not the number 42, but the string "42".
 "foo"
-"bar"
+'bar' # Also a string, 
 "Hello"
 "Python"
 "..."
 ```
+
+
+## Hello, World! ##
+
+Generally a program that prints the string "Hello, World!" is
+the traditional first program you learn in a language.
+
+(Some variation of this goes back to at least 1974.)
+
+```python
+print("Hello, World!")
+```
+
+
+So now you can use Python like a pocket calculator, and can print out
+text, instead of writing it inside of a text file.
+
+How about we play with something a bit more useful.
+
+
+## Combining Strings ##
+
+Combining strings is called "concatenation".
+
+To concatenate two strings just use the `+` operator.
+
+```python
+>>> "open" + 'data'
+'opendata'
+>>> 'so' + 'crata'
+'socrata'
+>>> "Good " + "morning" + "!" # Note the space after "Good".
+```
+
+
+
+If you want to combine a string with a number you get an error.
+
+```python
+>>> "the answer is: " + 6 * 7
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: Can't convert 'int' object to str implicitly
+```
+
+So, how do we do this?
+
+First we need another tool.
+
+
+## What are Functions? ##
+
+Functions are pre-defined pieces of code that you can run on different
+arguments.
+
+They're basically the same as the functions you learned in math class
+(log, sin, tan, etc).
+
+
+## Calling Functions ##
+
+We've actually already seen one function, the `print` function.
+
+We call `print` with a string as its argument (inside of its
+parenthesis), and it, well, prints it out.
+
+```python
+>>> print("I am an argument!")
+I am an argument!
+```
+
+
+## Converting Numbers to Strings ##
+
+To make a number into a string call the `str` function.
+
+Using this we can now display a string with dynamic information.
+
+```python
+>>> str(6 * 7)
+'42'
+>>> "The answer is: " + str(6 * 7)
+'The answer is: 42'
+```
+
+
+## Try it Yourself ##
+
+Write a script of your own that prints out a string using dynamic
+information.
+
+Save it as "answer.py" before running it.
