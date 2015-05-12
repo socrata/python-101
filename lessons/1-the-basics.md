@@ -6,7 +6,15 @@ Python tends to mostly be used for short programs that are called
 Scripts are just a series of commands to be executed by the computer.
 
 
-Unlike inside of IDLE, if you write a script like:
+## The Shell ##
+
+IDLE starts up what's called a "shell" or "interpreter".
+
+A shell is just a prompt that you can type commands into, that will
+print the results automatically.
+
+
+Unlike inside the IDLE shell, if you write a script like:
 ```python
 x = 9
 x * x
@@ -15,8 +23,8 @@ x * x
 It won't print anything, it will just spend the time to do the computation.
 
 Note that the commands in the file don't start with `>>>`.  If you
-copy and paste code from IDLE you will need to remove those leading
-`>` s.
+copy and paste code from the IDLE shell you will need to remove those
+leading `>` s.
 
 
 To print things you need to use the `print` command.
@@ -27,18 +35,7 @@ x = 9
 print(x * x)
 ```
 
-Will print `81` out, even if you save it to a file.
-
-
-Now try creating a script yourself.
-
-From inside of IDLE do "File > New File" then write and save your
-program (feel free to copy and paste from above).
-
-
-After saving the file, you can run it by going to "Run > Run Module"
-or by pressing F5 (with the default MacOS settings, this will require
-pressing fn + F5).
+Will print `81` out, even if you save it to a file and run it.
 
 
 ## Comments ##
@@ -71,16 +68,39 @@ The following are all strings:
 ```
 
 
-## Hello, World! ##
-
 Generally a program that prints the string "Hello, World!" is
-the traditional first program you learn in a language.
+the traditional first program you write a language.
 
 (Some variation of this goes back to at least 1974.)
+
+
+## Hello, World!##
 
 ```python
 print("Hello, World!")
 ```
+
+Now try creating a "hello world" script yourself.
+
+From inside of IDLE do "File > New File" then write and your "hello
+world" program (feel free to copy from above).
+
+
+When you save your program, create a folder to keep all of your
+scripts for this class.
+
+It can be wherever you want, but I suggest
+creating a "python-101" folder inside of "Documents".
+
+Save your program as "hello.py".
+
+
+After saving the file, you can run it by going to "Run > Run Module"
+or by pressing F5 (with the default MacOS settings, this will require
+pressing fn + F5).
+
+
+Congratulations, you've just written your first program!
 
 
 So now you can use Python like a pocket calculator, and can print out
