@@ -72,23 +72,38 @@ school.
 4
 >>> 5 / 2
 2.5
->>> 50 - 8
-42
+>>> 6 * 5 + 20 - 1
+49
+>>> 6 * -2.5
+-15
 ```
 
 
 You can also assign things to variables, if you want to do more
 complicated math.
 
+
+This will create a variable named `x` and store the value `3` in it.
+
 ```python
->>> 6 * 5 + 20 - 1
-49
->>> 6 * -2.5
--15
+>>> x = 3
+>>> x
+```
+
+You can think of variables like boxes that hold values inside of them.
+
+
+You can also give variables new values.
+
+```python
 >>> x = 6 * 7
+>>> x
+6
 >>> x * x
 1764
 >>> x = 9
+>>> x
+9
 >>> x * x
 81
 ```
@@ -102,4 +117,4 @@ links or ask questions some time other than lectures/office hours.
 I'll do my best to follow the channel during working hours.
 
 
-Next time we'll cover doing things more fun than simple arithmetic.
+Next time we'll cover doing things that are more fun than simple arithmetic.

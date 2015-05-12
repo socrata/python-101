@@ -186,3 +186,7 @@ to solve problems you have in your daily life.
 
 Give any examples of problems you'd like to solve, either here, or in
 the `#python-101` channel
+
+
+
+
